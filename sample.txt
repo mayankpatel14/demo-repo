@@ -13,3 +13,4 @@ loremipsum
 loremipsumloremipsum
 
 made changes to reflect in pull request
+made a sample change to see the fetch feature in vs code
